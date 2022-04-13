@@ -1,0 +1,1 @@
+strip_00021 0.329 172 208 205 210 201 275 168 273 ShortSide_forGripper

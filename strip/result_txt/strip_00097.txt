@@ -1,0 +1,2 @@
+strip_00097 0.344 250 407 257 367 327 378 320 418 ShortSide_forGripper
+strip_00097 0.421 252 422 260 384 321 397 313 435 ShortSide_forGripper

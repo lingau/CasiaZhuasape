@@ -1,0 +1,9 @@
+irregular_00012 0.268 257 230 304 215 340 333 293 348 ShortSide_forGripper
+irregular_00012 0.278 187 372 213 341 294 409 268 440 ShortSide_forGripper
+irregular_00012 0.280 293 299 320 252 436 320 409 367 ShortSide_forGripper
+irregular_00012 0.281 188 308 198 252 373 283 363 339 ShortSide_forGripper
+irregular_00012 0.363 245 298 268 226 438 281 415 353 ShortSide_forGripper
+irregular_00012 0.384 177 336 202 260 364 313 339 389 ShortSide_forGripper
+irregular_00012 0.391 181 372 193 332 312 369 300 409 ShortSide_forGripper
+irregular_00012 0.500 326 221 399 212 417 358 344 367 ShortSide_forGripper
+irregular_00012 0.510 189 306 260 280 308 413 237 439 ShortSide_forGripper

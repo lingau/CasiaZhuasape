@@ -1,0 +1,2 @@
+circle_00011 0.251 360 252 364 316 277 321 273 257 LongSide_forGripper
+circle_00011 0.419 352 246 367 297 283 321 268 270 ShortSide_forGripper

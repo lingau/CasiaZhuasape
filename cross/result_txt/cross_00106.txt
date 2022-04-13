@@ -1,0 +1,4 @@
+cross_00106 0.287 119 258 189 169 376 315 306 404 ShortSide_forGripper
+cross_00106 0.344 204 228 212 151 351 165 343 242 ShortSide_forGripper
+cross_00106 0.365 219 209 253 168 392 280 358 321 ShortSide_forGripper
+cross_00106 0.373 87 159 110 117 276 210 253 252 ShortSide_forGripper

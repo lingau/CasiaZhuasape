@@ -1,0 +1,2 @@
+star_00048 0.261 341 127 342 176 216 178 215 129 ShortSide_forGripper
+star_00048 0.320 176 164 243 75 429 215 362 304 ShortSide_forGripper

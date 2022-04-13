@@ -1,0 +1,2 @@
+trapezoid_00043 0.288 395 179 430 215 290 350 255 314 ShortSide_forGripper
+trapezoid_00043 0.302 214 222 294 142 461 309 381 389 ShortSide_forGripper

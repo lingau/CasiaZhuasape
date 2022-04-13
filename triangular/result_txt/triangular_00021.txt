@@ -1,0 +1,2 @@
+triangular_00021 0.330 271 170 317 173 308 291 262 288 ShortSide_forGripper
+triangular_00021 0.403 274 171 342 166 351 294 283 299 ShortSide_forGripper

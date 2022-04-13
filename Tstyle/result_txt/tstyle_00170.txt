@@ -1,0 +1,5 @@
+tstyle_00170 0.256 152 229 204 229 204 325 152 325 ShortSide_forGripper
+tstyle_00170 0.276 486 244 513 244 513 324 486 324 ShortSide_forGripper
+tstyle_00170 0.309 473 250 508 255 498 327 463 322 ShortSide_forGripper
+tstyle_00170 0.313 170 231 239 229 241 324 172 326 ShortSide_forGripper
+tstyle_00170 0.384 422 149 425 223 205 230 202 156 ShortSide_forGripper

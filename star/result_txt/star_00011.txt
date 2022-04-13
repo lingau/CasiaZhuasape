@@ -1,0 +1,1 @@
+star_00011 0.399 446 157 453 236 223 256 216 177 ShortSide_forGripper

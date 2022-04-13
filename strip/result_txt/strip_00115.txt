@@ -1,0 +1,12 @@
+strip_00115 0.401 463 61 512 44 542 132 493 149 ShortSide_forGripper
+strip_00115 0.405 275 116 326 96 370 203 319 223 ShortSide_forGripper
+strip_00115 0.431 190 136 245 127 267 247 212 256 ShortSide_forGripper
+strip_00115 0.473 430 67 480 50 513 146 463 163 ShortSide_forGripper
+strip_00115 0.510 362 79 416 63 449 178 395 194 ShortSide_forGripper
+strip_00115 0.516 238 132 312 105 353 217 279 244 ShortSide_forGripper
+strip_00115 0.517 398 73 449 59 479 162 428 176 ShortSide_forGripper
+strip_00115 0.524 214 135 288 118 315 236 241 253 ShortSide_forGripper
+strip_00115 0.538 119 161 193 144 224 274 150 291 ShortSide_forGripper
+strip_00115 0.587 303 104 378 77 418 189 343 216 ShortSide_forGripper
+strip_00115 0.598 152 156 228 138 255 255 179 273 ShortSide_forGripper
+strip_00115 0.679 84 183 153 160 195 280 126 303 ShortSide_forGripper

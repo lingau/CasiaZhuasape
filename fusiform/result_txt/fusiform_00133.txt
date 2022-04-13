@@ -1,0 +1,8 @@
+fusiform_00133 0.289 324 230 368 245 339 325 295 310 ShortSide_forGripper
+fusiform_00133 0.403 388 363 422 337 453 378 419 404 ShortSide_forGripper
+fusiform_00133 0.472 303 209 354 236 304 330 253 303 ShortSide_forGripper
+fusiform_00133 0.601 277 191 324 222 264 314 217 283 ShortSide_forGripper
+fusiform_00133 0.626 211 167 240 191 188 254 159 230 ShortSide_forGripper
+fusiform_00133 0.670 242 178 282 208 223 287 183 257 ShortSide_forGripper
+fusiform_00133 0.672 189 149 217 173 162 236 134 212 ShortSide_forGripper
+fusiform_00133 0.679 161 129 198 160 142 226 105 195 ShortSide_forGripper

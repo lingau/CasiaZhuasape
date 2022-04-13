@@ -1,0 +1,4 @@
+rectangle_00049 0.268 334 269 344 349 241 362 231 282 ShortSide_forGripper
+rectangle_00049 0.274 272 170 274 131 339 135 337 174 ShortSide_forGripper
+rectangle_00049 0.285 312 93 320 157 213 170 205 106 ShortSide_forGripper
+rectangle_00049 0.304 338 131 355 62 443 84 426 153 ShortSide_forGripper

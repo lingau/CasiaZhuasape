@@ -1,0 +1,7 @@
+dumbbell_00068 0.260 158 354 208 300 277 365 227 419 ShortSide_forGripper
+dumbbell_00068 0.292 286 142 322 92 477 205 441 255 ShortSide_forGripper
+dumbbell_00068 0.334 187 324 237 266 314 333 264 391 ShortSide_forGripper
+dumbbell_00068 0.359 118 391 165 338 243 408 196 461 ShortSide_forGripper
+dumbbell_00068 0.415 326 107 366 39 551 150 511 218 ShortSide_forGripper
+dumbbell_00068 0.420 211 298 255 235 344 297 300 360 ShortSide_forGripper
+dumbbell_00068 0.462 259 194 299 128 470 231 430 297 ShortSide_forGripper

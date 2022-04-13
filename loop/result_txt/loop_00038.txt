@@ -1,0 +1,5 @@
+loop_00038 0.272 241 119 274 108 290 154 257 165 ShortSide_forGripper
+loop_00038 0.306 59 153 101 164 80 248 38 237 ShortSide_forGripper
+loop_00038 0.319 327 381 369 368 386 424 344 437 ShortSide_forGripper
+loop_00038 0.515 107 171 152 184 126 270 81 257 ShortSide_forGripper
+loop_00038 0.624 88 160 127 175 95 263 56 248 ShortSide_forGripper

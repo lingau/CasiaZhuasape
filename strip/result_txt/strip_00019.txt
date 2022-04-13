@@ -1,0 +1,2 @@
+strip_00019 0.251 301 175 324 129 386 160 363 206 ShortSide_forGripper
+strip_00019 0.291 333 121 354 83 410 114 389 152 ShortSide_forGripper

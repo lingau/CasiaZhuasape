@@ -1,0 +1,8 @@
+star_00065 0.274 342 74 359 124 221 169 204 119 ShortSide_forGripper
+star_00065 0.308 211 86 219 43 352 69 344 112 ShortSide_forGripper
+star_00065 0.316 224 52 297 25 363 207 290 234 ShortSide_forGripper
+star_00065 0.333 218 115 224 74 339 92 333 133 ShortSide_forGripper
+star_00065 0.365 167 120 177 68 274 87 264 139 ShortSide_forGripper
+star_00065 0.369 149 199 170 126 330 172 309 245 ShortSide_forGripper
+star_00065 0.387 168 130 176 50 355 69 347 149 ShortSide_forGripper
+star_00065 0.563 139 147 157 68 368 116 350 195 ShortSide_forGripper

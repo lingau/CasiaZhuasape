@@ -1,0 +1,4 @@
+ellipse_00033 0.273 227 203 277 203 277 361 227 361 ShortSide_forGripper
+ellipse_00033 0.286 208 269 222 219 411 270 397 320 ShortSide_forGripper
+ellipse_00033 0.444 286 184 334 185 331 367 283 366 ShortSide_forGripper
+ellipse_00033 0.622 246 178 322 178 322 377 246 377 ShortSide_forGripper

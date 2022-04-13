@@ -1,0 +1,1 @@
+rectangle_00137 0.288 448 203 470 313 221 362 199 252 ShortSide_forGripper

@@ -1,0 +1,2 @@
+arc_00024 0.316 275 124 328 111 384 335 331 348 ShortSide_forGripper
+arc_00024 0.386 248 138 316 123 359 327 291 342 ShortSide_forGripper

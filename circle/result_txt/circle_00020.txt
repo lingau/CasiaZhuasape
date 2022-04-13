@@ -1,0 +1,1 @@
+circle_00020 0.562 362 157 369 218 173 242 166 181 ShortSide_forGripper

@@ -1,0 +1,1 @@
+ellipse_00030 0.313 172 240 213 173 379 277 338 344 ShortSide_forGripper

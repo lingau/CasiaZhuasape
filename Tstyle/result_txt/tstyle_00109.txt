@@ -1,0 +1,14 @@
+tstyle_00109 0.250 202 289 213 232 385 266 374 323 ShortSide_forGripper
+tstyle_00109 0.254 196 267 200 214 397 228 393 281 ShortSide_forGripper
+tstyle_00109 0.259 206 188 280 161 343 333 269 360 ShortSide_forGripper
+tstyle_00109 0.291 421 149 426 203 240 220 235 166 ShortSide_forGripper
+tstyle_00109 0.296 396 170 444 179 429 255 381 246 ShortSide_forGripper
+tstyle_00109 0.340 140 225 193 216 213 330 160 339 ShortSide_forGripper
+tstyle_00109 0.370 96 239 131 238 135 328 100 329 ShortSide_forGripper
+tstyle_00109 0.373 273 62 387 58 392 209 278 213 ShortSide_forGripper
+tstyle_00109 0.436 183 273 216 164 436 232 403 341 ShortSide_forGripper
+tstyle_00109 0.471 190 214 266 202 287 333 211 345 ShortSide_forGripper
+tstyle_00109 0.482 157 222 231 210 250 327 176 339 ShortSide_forGripper
+tstyle_00109 0.496 219 219 258 112 454 184 415 291 ShortSide_forGripper
+tstyle_00109 0.534 119 231 171 224 184 334 132 341 ShortSide_forGripper
+tstyle_00109 0.594 75 228 148 225 154 337 81 340 ShortSide_forGripper

@@ -1,0 +1,1 @@
+trapezoid_00025 0.687 286 141 335 163 281 278 232 256 ShortSide_forGripper
